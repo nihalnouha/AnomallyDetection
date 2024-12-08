@@ -69,7 +69,7 @@ This project demonstrates a real-time stock market data processing pipeline usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-name/quix-streams-project
+   git clone https://github.com/AnomallyDetection/quix-streams-project
    cd quix-streams-project
    ```
 
